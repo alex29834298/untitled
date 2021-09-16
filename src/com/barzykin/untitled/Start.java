@@ -5,6 +5,11 @@ public class Start {
         print("Hello, World");
     }
 
+    /**
+     * Prints str
+     *
+     * @param str {@link String} to be printed
+     */
     private static void print(String str) {
         System.out.println(str);
     }
