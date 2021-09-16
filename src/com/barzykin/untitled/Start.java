@@ -12,5 +12,10 @@ public class Start {
      */
     private static void print(String str) {
         System.out.println(str);
+        printDelimiter();
+    }
+
+    private static void printDelimiter() {
+        System.out.println("---------------");
     }
 }
