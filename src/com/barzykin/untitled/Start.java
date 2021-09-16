@@ -2,6 +2,10 @@ package com.barzykin.untitled;
 
 public class Start {
     public static void main(String[] args) {
-        System.out.println("Hello, World");
+        print("Hello, World");
+    }
+
+    private static void print(String str) {
+        System.out.println(str);
     }
 }
