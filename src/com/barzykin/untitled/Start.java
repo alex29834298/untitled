@@ -16,6 +16,6 @@ public class Start {
     }
 
     private static void printDelimiter() {
-        System.out.println("---------------");
+        System.out.println("************");
     }
 }
